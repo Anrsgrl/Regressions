@@ -1,5 +1,7 @@
 # Linear Regression
 
+![Regressions Banner](../screenshots/linear.webp)
+
 This directory contains the implementation of Linear Regression to predict employees' salaries based on their years of experience.
 
 ## Dataset
