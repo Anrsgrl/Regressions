@@ -1,5 +1,7 @@
 # Regressions
 
+![Regressions Banner](/screenshots/regressions.webp)
+
 This project contains examples of Linear, Polynomial, and Logistic Regression models.
 
 ## Technologies Used
